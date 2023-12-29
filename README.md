@@ -2,10 +2,10 @@
 
 Projeto básico desenvolvido para a matéria Segurança da Informação em 2022 sobre cifra de Vigenere
 
-## Funcionalidades:
+## 📋 Funcionalidades:
 
 - Criptografar uma frase a partir de uma chave dada com a lógica da cifra de Vigenere
 
-## Tecnologias utilizadas:
+## 🛠️ Tecnologias utilizadas:
 
 * Java
